@@ -173,7 +173,9 @@ Look-behind ((?<=...) and (?<!...)):
 
 ## Author
 
-Just a developer try to write down what he understands about Regex.
+Hi,
+
+Just a developer try to write down what he understands about Regex. Hope it makes some sense to at least use as quick notes to review when looking into A regular expression. Writing was never my strong suite. 
 
 Some helpfule notes for the future:
 
