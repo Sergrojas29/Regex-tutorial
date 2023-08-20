@@ -173,4 +173,16 @@ Look-behind ((?<=...) and (?<!...)):
 
 ## Author
 
+Just a developer try to write down what he understands about Regex.
+
+Some helpfule notes for the future:
+
+- Matching a Hex Value – /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
+
+- Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
+- Matching a URL – /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+
+- Matching an HTML Tag – /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
+
 https://github.com/Sergrojas29
